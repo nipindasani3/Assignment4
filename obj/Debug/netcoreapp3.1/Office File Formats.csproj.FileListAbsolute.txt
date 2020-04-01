@@ -1,0 +1,118 @@
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.exe
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.csprojAssemblyReference.cache
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.AssemblyInfoInputs.cache
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.AssemblyInfo.cs
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.csproj.CopyComplete
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.deps.json
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.runtimeconfig.json
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.runtimeconfig.dev.json
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.pdb
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.pdb
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.genruntimeconfig.cache
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.AWT.WinForms.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Beans.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Charsets.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Corba.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Core.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Localedata.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Management.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Media.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Misc.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Naming.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Remoting.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Security.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Text.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Tools.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Util.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.API.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\ejml-0.23.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\javax.json.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\joda-time.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\jollyday.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\protobuf.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\slf4j-api.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\slf4j-simple.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\stanford-corenlp-3.9.2.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\xom.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\Nik's Bot\source\repos\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.csproj.CoreCompileInputs.cache
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.csprojAssemblyReference.cache
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.AssemblyInfoInputs.cache
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.AssemblyInfo.cs
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.pdb
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.exe
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.deps.json
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.runtimeconfig.json
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.runtimeconfig.dev.json
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Office File Formats.pdb
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.AWT.WinForms.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Beans.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Charsets.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Corba.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Core.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Localedata.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Management.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Media.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Misc.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Naming.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Remoting.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Security.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Text.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Tools.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Util.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.API.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\ejml-0.23.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\javax.json.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\joda-time.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\jollyday.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\protobuf.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\slf4j-api.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\slf4j-simple.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\stanford-corenlp-3.9.2.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\xom.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nipin's HP\Desktop\Office File Formats\Office File Formats\obj\Debug\netcoreapp3.1\Office File Formats.csproj.CopyComplete
